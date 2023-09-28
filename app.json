@@ -23,7 +23,7 @@
         "API_TOKEN": {
             "description": "Bot Token From https://t.me/BotFather",
             "value": "6496847439:AAH5OhNgQxBKEwS738-2h6ed61v5dbs9sMk",
-            "required": true
+            "required": false
         }
     }
 }
